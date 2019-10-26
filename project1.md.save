@@ -1,0 +1,10 @@
+murmuring-cliffs-22520
+
+git remote add staging https://git.heroku.com/murmuring-cliffs-22520.git
+
+Install Heroku on Ubuntu 18.04:
+```bash
+sudo snap install --classic heroku
+heroku --version
+heroku login
+```
